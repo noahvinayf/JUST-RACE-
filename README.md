@@ -8,7 +8,7 @@ Pour contacter le support, signaler un bug ou proposer une amélioration :
 
 noah.vinay.fr@gmail.com
 
-## Liens App Store Connect
+## Liens des page publique
 
 Support URL :
 https://github.com/noahvinayf/JUST-RACE-/blob/main/Support.txt
