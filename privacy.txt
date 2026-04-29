@@ -1,0 +1,36 @@
+Politique de confidentialité - JUST RACE
+
+Dernière mise à jour : 29 avril 2026
+
+JUST RACE utilise certaines données de l'iPhone pour fournir ses fonctions de télémétrie.
+
+Données utilisées :
+- localisation GPS pour mesurer la vitesse, la distance, les trajets et la position sur mini-map ;
+- capteurs de mouvement de l'iPhone, dont gyroscope, accélération, inclinaison, roulis et force G ;
+- données de session comme le chrono, les statistiques, les trajets enregistrés et les réglages de l'application ;
+- informations envoyées volontairement par email lors d'une demande de support ou d'un bug report.
+
+Stockage :
+Les trajets, réglages et statistiques sont enregistrés localement sur l'iPhone. Dans la version actuelle, JUST RACE ne crée pas de compte utilisateur et n'envoie pas automatiquement les trajets vers un serveur externe.
+
+Partage :
+JUST RACE ne vend pas les données personnelles. L'application ne contient pas de publicité et n'utilise pas de service d'analyse publicitaire.
+
+Support :
+Si l'utilisateur envoie un email de support ou de bug report, le contenu de cet email sera transmis via son application de messagerie et les services liés à son fournisseur email.
+
+Localisation :
+La localisation est utilisée pour les fonctions de télémétrie : vitesse, distance, trajet, mini-map et analyse de session. L'utilisateur peut refuser ou désactiver la localisation dans les réglages iOS. Certaines fonctions seront alors limitées.
+
+Capteurs de mouvement :
+Les capteurs de mouvement sont utilisés pour calculer les forces G, le gyroscope, l'inclinaison et le roulis. Si ces capteurs ne sont pas disponibles ou si l'accès est limité, certaines données peuvent être réduites ou indisponibles.
+
+Suppression :
+L'utilisateur peut supprimer les trajets enregistrés depuis l'application lorsque cette option est disponible. Il peut aussi supprimer l'application de son iPhone pour retirer les données locales associées à JUST RACE.
+
+Sécurité :
+JUST RACE est un outil d'analyse indicatif. L'application ne remplace pas un système homologué pour la compétition officielle. Elle doit être utilisée de manière responsable, notamment sur circuit, terrain privé ou zone sécurisée. L'utilisateur ne doit pas manipuler son iPhone en conduisant.
+
+Contact :
+Pour toute question sur la confidentialité ou le support :
+noah.vinay.fr@gmail.com
