@@ -11,7 +11,7 @@ noah.vinay.fr@gmail.com
 ## Liens App Store Connect
 
 Support URL :
-https://TON-PSEUDO.github.io/just-race/support.html
+https://github.com/noahvinayf/JUST-RACE-/blob/main/Support.txt
 
 Privacy Policy URL :
 https://github.com/noahvinayf/JUST-RACE-/blob/main/privacy.txt
