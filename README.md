@@ -14,4 +14,4 @@ Support URL :
 https://TON-PSEUDO.github.io/just-race/support.html
 
 Privacy Policy URL :
-https://TON-PSEUDO.github.io/just-race/privacy.txt
+https://github.com/noahvinayf/JUST-RACE-/blob/main/privacy.txt
