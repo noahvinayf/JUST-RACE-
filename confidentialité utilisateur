@@ -1,0 +1,78 @@
+# Confidentialité utilisateur - JUST RACE
+
+Dernière mise à jour : 1 mai 2026
+
+JUST RACE est conçue pour respecter la confidentialité de ses utilisateurs. L’application utilise uniquement les données nécessaires à son fonctionnement.
+
+## Données personnelles
+
+JUST RACE ne demande pas la création d’un compte utilisateur.
+
+L’application ne collecte pas le nom, l’adresse, le numéro de téléphone, l’adresse email ou toute autre information d’identification personnelle, sauf si l’utilisateur choisit volontairement de contacter le support par email.
+
+## Localisation
+
+JUST RACE peut demander l’accès à la localisation de l’iPhone.
+
+La localisation est utilisée pour :
+
+- mesurer la vitesse ;
+- calculer la distance parcourue ;
+- enregistrer un trajet ;
+- afficher la position sur la mini-map ;
+- améliorer la précision des statistiques de conduite.
+
+Les données de localisation sont utilisées uniquement pour les fonctions de télémétrie de l’application.
+
+## Capteurs de mouvement
+
+JUST RACE peut utiliser les capteurs de mouvement de l’iPhone, notamment le gyroscope et l’accéléromètre.
+
+Ces données sont utilisées pour :
+
+- mesurer les forces G ;
+- mesurer l’inclinaison ;
+- mesurer le roulis ;
+- analyser le comportement du véhicule pendant un trajet.
+
+## Stockage local
+
+Les données générées par l’application, comme les trajets enregistrés et les statistiques, sont stockées localement sur l’iPhone de l’utilisateur.
+
+JUST RACE ne transmet pas automatiquement ces données à un serveur externe.
+
+## Partage des données
+
+JUST RACE ne vend pas, ne loue pas et ne partage pas les données utilisateur avec des annonceurs ou des services de tracking.
+
+Aucun suivi publicitaire n’est intégré à l’application.
+
+## Rapport de bug et support
+
+Si l’utilisateur choisit d’envoyer un rapport de bug ou de contacter le support, il peut envoyer volontairement un email à l’adresse suivante :
+
+noah.vinay.fr@gmail.com
+
+Dans ce cas, seules les informations fournies volontairement dans l’email seront reçues.
+
+## Services tiers
+
+JUST RACE n’utilise actuellement pas de service d’analyse tiers, de publicité ou de tracking utilisateur.
+
+Les services Apple liés à iOS, TestFlight ou l’App Store peuvent traiter certaines données techniques selon les réglages de l’utilisateur et les politiques d’Apple.
+
+## Contrôle par l’utilisateur
+
+L’utilisateur peut à tout moment désactiver l’accès à la localisation ou aux capteurs dans les réglages iOS.
+
+Certaines fonctionnalités de JUST RACE peuvent ne plus fonctionner correctement si ces autorisations sont désactivées.
+
+## Contact
+
+Pour toute question concernant la confidentialité utilisateur :
+
+noah.vinay.fr@gmail.com
+
+## Mise à jour
+
+Cette page peut être mise à jour si JUST RACE ajoute de nouvelles fonctionnalités, comme un compte utilisateur, une synchronisation en ligne, des achats intégrés ou un partage de données en direct.
